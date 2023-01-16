@@ -1,0 +1,38 @@
+#main{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-color: lightgray;
+   border-radius: 5px;
+}
+#title p{
+text-align: center;
+}
+
+#img-div{
+    background-color: white;
+    padding: 20px 100px;
+}
+#img-div p{
+    text-align: center;
+    font-size: 16px;
+}
+
+#tribute-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 250px;
+ 
+}
+img{
+    max-width:fit-content;
+}
+
+#quote{
+    padding: 10px 250px;
+}
+#tribute-link p{
+    font-size: 20px;
+    text-align: center;
+}
